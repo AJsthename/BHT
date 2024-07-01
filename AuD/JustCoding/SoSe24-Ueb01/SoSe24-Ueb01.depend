@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1584209020 source:c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\mycodes\sose24-ueb01\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1682049594 source:c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\mycodes\sose24-ueb01\tools.c
+	<stdio.h>
+	<stdlib.h>
+
+1713511029 source:c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\mycodes\sose24-ueb01\ueb01.c
+	<stdio.h>
+	"datastructure.h"
+	"datetime.h"
+	"tools.h"
+
+1713105927 c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\mycodes\sose24-ueb01\datastructure.h
+
+1713511029 c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\mycodes\sose24-ueb01\datetime.h
+
+1683903884 c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\mycodes\sose24-ueb01\tools.h
+
+1713545758 source:c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\mycodes\sose24-ueb01\datetime.c
+	<stdio.h>
+	<stdlib.h>
+	"tools.h"
+	"datastructure.h"
+
