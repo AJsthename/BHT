@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1720017212 source:c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\mycodes\sose24-ueb04\cds.c
+	<stdio.h>
+	<stdlib.h>
+	"datastructure.h"
+	"menu.h"
+	"database.h"
+
+1717756720 c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\mycodes\sose24-ueb04\datastructure.h
+
+1714752979 c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\mycodes\sose24-ueb04\menu.h
+
+1719775446 source:c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\mycodes\sose24-ueb04\datetime.c
+	<stdio.h>
+	<stdlib.h>
+	"tools.h"
+	"datastructure.h"
+
+1719843360 c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\mycodes\sose24-ueb04\tools.h
+
+1720168167 source:c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\mycodes\sose24-ueb04\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"datastructure.h"
+	"tools.h"
+	"cds.h"
+	"datetime.h"
+	"database.h"
+
+1718021711 c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\mycodes\sose24-ueb04\cds.h
+
+1718021711 c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\mycodes\sose24-ueb04\datetime.h
+
+1720021053 source:c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\mycodes\sose24-ueb04\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"tools.h"
+	"datastructure.h"
+
+1719843360 source:c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\mycodes\sose24-ueb04\tools.c
+	<stdio.h>
+	<stdlib.h>
+
+1720172118 source:c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\mycodes\sose24-ueb04\database.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datastructure.h"
+	"tools.h"
+	"datetime.h"
+	"cds.h"
+	"database.h"
+
+1720171398 c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\mycodes\sose24-ueb04\database.h
+
