@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1720825377 source:c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\codered\codered-ueb04\cds.c
+	<stdio.h>
+	<stdlib.h>
+	"datastructure.h"
+	"menu.h"
+
+1720827567 c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\codered\codered-ueb04\datastructure.h
+
+1714752979 c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\codered\codered-ueb04\menu.h
+
+1718029889 source:c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\codered\codered-ueb04\datetime.c
+	<stdio.h>
+	<stdlib.h>
+	"tools.h"
+	"datastructure.h"
+
+1718029485 c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\codered\codered-ueb04\tools.h
+
+1720801732 source:c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\codered\codered-ueb04\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"datastructure.h"
+	"tools.h"
+	"cds.h"
+	"datetime.h"
+	"database.h"
+
+1718021711 c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\codered\codered-ueb04\cds.h
+
+1718021711 c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\codered\codered-ueb04\datetime.h
+
+1720801748 source:c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\codered\codered-ueb04\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"tools.h"
+	"datastructure.h"
+
+1718030449 source:c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\codered\codered-ueb04\tools.c
+	<stdio.h>
+	<stdlib.h>
+
+1720825446 source:c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\codered\codered-ueb04\database.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datastructure.h"
+	"tools.h"
+	"datetime.h"
+	"cds.h"
+
+1720822061 c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\codered\codered-ueb04\database.h
+
