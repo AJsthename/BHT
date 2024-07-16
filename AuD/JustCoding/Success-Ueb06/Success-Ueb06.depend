@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1720873140 source:c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\mycodes\success-ueb06\datetime.c
+	<stdio.h>
+	<stdlib.h>
+	"tools.h"
+	"datastructure.h"
+
+1718029485 c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\mycodes\success-ueb06\tools.h
+
+1721167115 c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\mycodes\success-ueb06\datastructure.h
+
+1721089596 source:c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\mycodes\success-ueb06\list.c
+	<stdio.h>
+	<stdlib.h>
+	"datastructure.h"
+
+1721139257 source:c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\mycodes\success-ueb06\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"tools.h"
+	"datastructure.h"
+
+1718030449 source:c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\mycodes\success-ueb06\tools.c
+	<stdio.h>
+	<stdlib.h>
+
+1721166476 source:c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\mycodes\success-ueb06\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"datastructure.h"
+	"tools.h"
+	"cds.h"
+	"datetime.h"
+	"database.h"
+
+1714752979 c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\mycodes\success-ueb06\menu.h
+
+1721166369 c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\mycodes\success-ueb06\cds.h
+
+1720864501 c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\mycodes\success-ueb06\datetime.h
+
+1721139111 c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\mycodes\success-ueb06\database.h
+
+1721166369 source:c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\mycodes\success-ueb06\cds.c
+	<stdio.h>
+	<stdlib.h>
+	"datastructure.h"
+	"datetime.h"
+	"menu.h"
+	"sort.h"
+	"tools.h"
+	"cds.h"
+	"database.h"
+
+1720903306 c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\mycodes\success-ueb06\sort.h
+
+1721166369 source:c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\mycodes\success-ueb06\database.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datastructure.h"
+	"tools.h"
+	"datetime.h"
+	"cds.h"
+
+1720969479 source:c:\users\italg\onedrive - berliner hochschule für technik\5. semester\module\aud\codes\mycodes\success-ueb06\sort.c
+	<stdio.h>
+	<stdlib.h>
+	"datastructure.h"
+	"tools.h"
+
