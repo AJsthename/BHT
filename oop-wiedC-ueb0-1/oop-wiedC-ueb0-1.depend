@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1729329772 source:c:\users\italg\onedrive\desktop\bht\wise2425\module\oop\uebungen\uebung-01\oop-wiedc-ueb0-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"types.h"
+
+1729237821 source:c:\users\italg\onedrive\desktop\bht\wise2425\module\oop\uebungen\uebung-01\oop-wiedc-ueb0-1\types.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"types.h"
+
+1728604389 c:\users\italg\onedrive\desktop\bht\wise2425\module\oop\uebungen\uebung-01\oop-wiedc-ueb0-1\types.h
+
